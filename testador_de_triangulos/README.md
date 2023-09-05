@@ -1,6 +1,6 @@
 # Testador de triângulos
 
-O programa é ser uma ferramenta validadora de triângulos (inseriodos pelo usuário), podendo especificar algumas de suas características se esta é a vontade do usuário. O programa possui 6 opções válidas, onde uma delas é para encerrá-lo: 
+O programa é uma ferramenta validadora de triângulos (inseriodos pelo usuário), possuindo algumas opções de detalhamento. O programa possui 6 opções válidas, onde uma delas é para encerrá-lo: 
 
 - 1 - Informar novo triângulo
 - 2 - Testa se é um triângulo válido
