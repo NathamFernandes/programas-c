@@ -4,6 +4,6 @@ O que são número colegas? Dois números são colegas quando a soma dos divisor
 
 Podemos expressar a soma dos divisores de um número, ainda, pela função $$D : \mathbb{Z} \rightarrow \mathbb{Z}$$ onde $$D(x) = \textit{Soma dos divisores de x}$$
 
-Dessa forma, o programa desse repositório é uma ferramenta calcula e julga se dois números inteiros inseridos pelo usuário são colegas ou não. 
+Dessa forma, o programa desse repositório é uma ferramenta que calcula e julga se dois números inteiros inseridos pelo usuário são colegas ou não. 
 
 _Este programa foi feito como exercício de uma das provas virtuais (lop.natalnet.br) de Introdução às Técnicas de Programação (ITP), do IMD/UFRN._
